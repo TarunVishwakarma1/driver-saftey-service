@@ -68,10 +68,7 @@ This app will enhance road safety by proactively notifying users, admins, and su
     └── dashboard-data
 ```
 
-Would you like me to:
-1. Detail the database schema for any component?
-2. Provide specific API endpoint specifications?
-3. Elaborate on the ML model architecture?
-4. Explain the incident detection algorithm?
-5. Describe the mobile app implementation?
 
+More data will be needed in the future as per analysis on web
+
+❤️ ❤️
