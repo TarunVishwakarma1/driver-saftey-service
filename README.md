@@ -1,2 +1,2 @@
-# reckless-driving-app
-This will be an integration service for various apps which will notify the admin or the supervisors about the drivers who are not driving carefully or not following the traffic rule. This app will help in mitigating the road risks. 
+# Driver Saftey App
+This app will enhance road safety by proactively notifying users, admins, and supervisors about drivers who may need to improve their driving habits. By promoting safer driving practices and adherence to traffic rules, it will help reduce road risks and create a safer environment for everyone
